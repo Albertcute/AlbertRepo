@@ -1,2 +1,3 @@
 # AlbertRepo
-My first repository
+# Install Java
+# Install Vscode
